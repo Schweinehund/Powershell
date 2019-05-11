@@ -1,1 +1,0 @@
-#PowerShell Application Deployment Toolkit
